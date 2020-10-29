@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+* 🏢 I'm working [**@Yproximite**](http://github.com/Yproximite) as a web developer
+* 🔭 I use JavaScript (VueJS, Typescript) and PHP (Symfony)
+* 🛠 I like to play with Go, Python, Docker
+* ⌨ I do DevOps with Docker, Ansible and I'm learning Consul, Vault and Nomad
+* 🇫🇷 I'm French, and I can speak 🇬🇧
+* ⚡ Fun fact, I play :golf:
 
 <!--
 **marmorag/marmorag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-office I'm working @jolicode as a web developer
-telescope I use PHP (Symfony), Golang, and JavaScript (React)
-hammer_and_wrench I like working with PostgreSQL, RabbitMQ, Redis, Elasticsearch
-keyboard I do OPS with Docker, Ansible and I used to consul, packer, and chef
-film_strip I give some talks
-writing_hand I write blog posts
-fr I'm French, But I can speak gb
-man he/him
 -->
