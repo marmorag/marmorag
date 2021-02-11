@@ -5,7 +5,7 @@
 * 🛠 I like to play with Go, Python and Docker
 * ⌨ I do DevOps with Docker, Ansible and I'm learning Kubernetes and Hashicorp Stack (Consul, Vault, Nomad)
 * 🇫🇷 I'm French, and I can speak 🇬🇧
-* ⚡ Fun fact, I play :golf:
+* I love to play :golf:
 
 <!--
 [![marmorag's github stats](https://github-readme-stats.vercel.app/api?username=marmorag&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
