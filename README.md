@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 🏢 I'm working [**@Yproximite**](http://github.com/Yproximite) as a web developer
+* 🏢 I'm working [**@Yproximite**](http://github.com/Yproximite) as DevOps Engineer
 * 🔭 I use JavaScript (VueJS, Typescript) and PHP (Symfony)
 * 🛠 I like to play with Go, Python and Docker
 * ⌨ I do DevOps with Docker, Ansible and I'm learning Kubernetes and Hashicorp Stack (Consul, Vault, Nomad)
